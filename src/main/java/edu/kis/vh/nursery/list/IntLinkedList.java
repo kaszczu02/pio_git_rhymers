@@ -41,7 +41,4 @@ public class IntLinkedList {
         return lastNode;
     }
 
-    public void setLastNode(Node lastNode) {
-        this.lastNode = lastNode;
-    }
 }
